@@ -10,3 +10,7 @@
 .bold{
     font-weight: bolder;
 }
+
+img.rounded-corners{
+    border-radius: 30px;
+}
