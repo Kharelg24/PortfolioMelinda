@@ -11,7 +11,12 @@
     font-weight: bolder;
 }
 
+<<<<<<< HEAD
 .quote{
     font-size: 15px;
     text-align: left;
+=======
+img.rounded-corners{
+    border-radius: 30px;
+>>>>>>> origin/main
 }
